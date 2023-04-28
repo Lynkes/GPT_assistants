@@ -23,7 +23,7 @@ speaker_embeddings = torch.tensor(embeddings_dataset[7306]["xvector"]).unsqueeze
 #from pygpt4all.models.gpt4all_j import GPT4All_J
 #model = GPT4All_J('./models/ggml-gpt4all-j-v1.3-groovy.bin')
 
-ia_name='hey','hey.'
+ia_name='hey.'
 
 class ChatGPT:
     def __init__(self, personality:str, keys:str, voice_name="Rachel", device_index=0):
