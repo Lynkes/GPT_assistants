@@ -5,8 +5,8 @@ from utils import get_file_paths
 
 # The only variables that need to be modifed
 foldername = "assistantP"
-personality = "roleplay"
-voicename = "Test"
+personality = "assistantP.txt"
+voicename = "VOICE"
 useEL = False
 usewhisper = True
 
