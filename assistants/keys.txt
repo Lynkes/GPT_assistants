@@ -1,0 +1,5 @@
+#CHANGE
+{
+"EL_KEY" : "ELEVENLABS_KEY",
+"GPT_KEY" : "OPEN_AI_API_KEY"
+}

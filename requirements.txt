@@ -1,0 +1,10 @@
+SpeechRecognition
+elevenlabslib
+openai
+pyttsx3
+sounddevice
+soundfile
+pyaudio
+transformers
+datasets
+torch
